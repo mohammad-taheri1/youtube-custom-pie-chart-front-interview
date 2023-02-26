@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { useState, useRef } from "react";
+import { useEffect, useState, useRef } from "react";
 
 const Chart = () => {
    const chartRef = useRef();
@@ -12,8 +11,8 @@ const Chart = () => {
 
    useEffect(() => {
       // console.log(chartRef.current)
-      chartRef.current.style.background = `conic-gradient(rgb(12, 40, 118) ${percent}%, rgb(62, 106, 226) 0)`
-   }, [percent])
+      chartRef.current.style.background = `conic-gradient(rgb(12, 40, 118) ${percent}%, rgb(62, 106, 226) 0)`;
+   }, [percent]);
 
    return (
       <>

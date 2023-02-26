@@ -4,7 +4,7 @@ import Chart from "./components/Chart.component";
 const App = () => {
    return (
       <div className="container">
-         <h1>Pie Chart using Vanilla JavaScript</h1>
+         <h1>Custom Pie Chart using React JS</h1>
          <Chart />
       </div>
    );
