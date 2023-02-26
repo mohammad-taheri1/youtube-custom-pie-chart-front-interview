@@ -30,3 +30,9 @@ Hope you enjoy it. Dont forget to give some stars 😊
 
 ## Final Result
 <img src="./final.png">
+
+## resources: 
+
+- "https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient"
+
+- "https://www.w3schools.com/css/css3_gradients_conic.asp"
